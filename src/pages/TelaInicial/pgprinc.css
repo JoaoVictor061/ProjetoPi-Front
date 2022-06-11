@@ -1,0 +1,28 @@
+.deputadoprinc{
+    font-family: 'Poly', serif;
+    font-size: 10rem;
+    padding: 0.5px 10rem;
+}
+
+.botaoprinc{
+    color: #000000;       
+    background: #9EF095;
+    border-radius: 34.2857px;
+    width: 100rem;
+}
+
+.botaoprinc:hover, .botaoprinc:active , .botaoprinc a{
+    background-color: #60da52;
+    color: #000000;
+    text-decoration: none;
+}
+
+.textprinc{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 35px;
+    text-align: center;    
+    color: #074D0A;
+}

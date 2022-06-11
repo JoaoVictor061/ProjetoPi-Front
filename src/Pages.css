@@ -1,0 +1,50 @@
+.Textlink{
+font-family: 'Poly';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+}
+
+.bt-option{
+    color: #ffffff;       
+    background: #0C6537;
+    border-radius: 25px;
+    width: 312px;
+    height: 179px;
+    
+}
+
+.bt-option:hover, .bt-option:active , .bt-option a{
+    color: #ffffff;
+    background-color: #60da52;
+    text-decoration: none;
+}
+/* MENU */
+
+#barratop{
+    background: #004A2F;
+
+}
+
+
+.botaotopo{
+    font-family: 'Poly';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-left: 4rem;
+    letter-spacing: 2px;
+}
+.imagemtopo{
+
+    padding-left: 1.5rem;
+    width: 30rem;
+    height: 3rem;
+}
+
+.grafico{
+    margin-top: 4rem;
+    margin-left: -1rem;
+
+}
